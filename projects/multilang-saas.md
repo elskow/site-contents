@@ -4,5 +4,5 @@ description: Simple and easy to use tool for paraphasing text. It uses LLM to ge
 github: https://github.com/elskow/MultiLang-SaaS-Paraphrasing-Tool
 stacks: [ Next.Js,FastAPI,Transformers ]
 date: 2024-04-10
-priority: 1
+priority: 0
 ---

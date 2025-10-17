@@ -4,5 +4,5 @@ description: Backend service for detecting code plagiarism. The service uses a c
 github: https://github.com/elskow/cpp-plagiarism-detector
 stacks: [ Pygments,NLTK,  FastAPI,  Lexical Analysis ]
 date: 2023-12-01
-priority: 1
+priority: 0
 ---
