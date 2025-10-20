@@ -30,4 +30,4 @@ My journey in software engineering has been driven by a fascination with algorit
 
 ### Online Presence
 
-[LinkedIn](https://www.linkedin.com/in/helmyluqman/) / [GitHub](https://github.com/elskow) / [Twitter](https://twitter.com/helmy_lh) / [Mail](mailto:helmyl.work@gmail.com) / [Credly](https://www.credly.com/users/helmy-luqmanulhakim)
+[LinkedIn](https://www.linkedin.com/in/helmyl/) / [GitHub](https://github.com/elskow) / [Twitter](https://twitter.com/helmy_lh) / [Mail](mailto:helmyl.work@gmail.com) / [Credly](https://www.credly.com/users/helmy-luqmanulhakim)
